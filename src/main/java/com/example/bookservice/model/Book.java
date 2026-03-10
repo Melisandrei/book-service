@@ -49,7 +49,7 @@ public class Book {
     }
 
     public String getGenre() {
-        return author;
+        return genre;
     }
 
     public void setGenre(String genre) {
